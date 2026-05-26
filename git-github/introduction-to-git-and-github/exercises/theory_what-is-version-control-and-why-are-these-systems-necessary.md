@@ -10,11 +10,11 @@ It simplifies collaboration, allows safer experimentation and makes it easier to
 
 What is a commit in Git?
 
-## Answer
+### Answer
 
 A snapshot of a specific state of your codebase.
 
-## Explanation
+### Explanation
 
 A commit works like a saved snapshot of your project at a specific moment.
 
@@ -22,7 +22,7 @@ It allows developers to track changes over time and easily access previous versi
 
 Commits are an essential part of version control because they help organize the development history and make collaboration safer and more efficient.
 
-## Practical Example
+### Practical Example
 
 ```bash
 git commit -m "initial project setup"
@@ -32,17 +32,17 @@ git commit -m "initial project setup"
 
 Why are branches useful in version control systems like Git?
 
-## Answer
+### Answer
 
 They allow you to work on features in isolation.
 
-## Explanation
+### Explanation
 
 A branch is an independent version of the main project that allows developers to work on new features, fixes or experiments without affecting the original codebase.
 
 Branches make development safer by isolating changes until they are ready to be merged into the main project.
 
-## Practical Example
+### Practical Example
 
 ```bash
 git checkout -b initial-project-setup
@@ -52,12 +52,28 @@ git checkout -b initial-project-setup
 
 Which of the following is NOT mentioned as a version control system in the lesson?
 
-## Answer
+### Answer
 
 Docker
 
-## Explanation
+### Explanation
 
 Git is a version control system. It tracks changes made to your source code files over time. It helps teams collaborate on the same codebase without overwriting each other's work and allows you to revert to older versions of your project.
 
 Docker is a containerization platform. It packages your application code along with all its dependencies, libraries, and configuration files into an isolated unit called a "container." This ensures the software runs identically on any computer, eliminating the "it works on my machine" problem.
+
+### Practical Example
+
+```text
+A development team uses Git to track changes made to a web application.
+
+Each developer works on separate features and uploads commits to the shared repository without overwriting other team members' work.
+```
+
+Example using Git:
+
+```bash
+git commit -m "feat: add login page"
+```
+
+In contrast, Docker would be used to package and run the application consistently across different environments, not to track source code changes.

@@ -33,11 +33,11 @@ This process is important because it encourages technical discussions, code anal
 
 What is the main purpose of GitHub and GitLab as discussed in the lesson?
 
-## Answer
+### Answer
 
 Version control providers with collaboration features.
 
-## Explanation
+### Explanation
 
 GitHub and GitLab are platforms built around version control systems, mainly Git, that help developers store, manage and collaborate on projects.
 
@@ -53,7 +53,7 @@ These platforms provide features such as:
 
 Instead of manually sending project files between developers, changes can be uploaded, reviewed and discussed directly through the platform.
 
-## Practical Example
+### Practical Example
 
 ```text
 Developer A creates a new login feature and uploads the changes to GitHub.
@@ -67,11 +67,11 @@ This workflow helps teams collaborate efficiently while maintaining project orga
 
 What is an advantage of using GitHub or GitLab for team collaboration?
 
-## Answer
+### Answer
 
 Team members can propose changes that others can review online.
 
-## Explanation
+### Explanation
 
 GitHub and GitLab allow developers to share code changes online so other team members can review, discuss and approve them before they become part of the main project.
 
@@ -85,39 +85,57 @@ The review process also helps teams:
 
 These platforms make collaborative development safer and more efficient, especially in large projects with multiple contributors.
 
-## Practical Example
+### Practical Example
 
 ```text
-A developer uploads changes to fix a bug in the authentication system.
+Developer A creates a new feature and uploads the changes to a GitHub repository.
 
-Before the changes are merged, other team members review the code, leave comments and suggest improvements directly on the platform.
+Developer B reviews the proposed changes, leaves comments and suggests improvements before approving the update.
 ```
 
-This allows the team to validate the solution and maintain code quality before publishing the update.
+This workflow allows teams to collaborate efficiently while maintaining code quality and project organization.
 
-## Explanation
+## Question 03
+
+Which of the following project management features do GitHub and GitLab offer?
+
+### Answer
+
+Issue trackers and project boards.
+
+### Explanation
 
 GitHub and GitLab provide project management tools that help development teams organize tasks, track bugs and monitor project progress.
 
-Two common features are:
+Two common project management features are:
 - issue trackers
 - project boards
 
-Issue trackers allow developers to report bugs, suggest improvements and assign tasks to team members.
+Issue trackers allow developers to:
+- report bugs
+- suggest improvements
+- assign tasks
+- discuss technical problems
 
-Project boards help organize workflows by separating tasks into categories such as:
+Project boards help teams organize workflows by separating tasks into categories such as:
 - To Do
 - In Progress
-- Completed
+- Done
 
-These tools improve communication, organization and productivity during software development.
+These tools improve communication, collaboration and overall project organization during software development.
 
-## Practical Example
+### Practical Example
 
 ```text
-A team creates an issue reporting a login bug and assigns it to a developer.
+A development team creates issues to track bugs and feature requests.
 
-The task is then added to the project board under "In Progress" until the fix is completed and moved to "Done".
+Each issue is added to a project board and moved through different stages as the work progresses.
 ```
 
-This workflow helps teams monitor project tasks and maintain organized development processes.
+Example workflow:
+
+```text
+To Do → In Progress → Review → Done
+```
+
+This helps the team visualize project progress and manage tasks more efficiently.
