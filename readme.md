@@ -25,8 +25,9 @@ The main goal of this repository is to document my learning process, strengthen 
 ```text
 freecodecamp-notes-and-solutions/
 │
-├── git-github/
+├── assets/
 ├── bash/
+├── git-github/
 ├── python/
 ├── sql/
 └── README.md
