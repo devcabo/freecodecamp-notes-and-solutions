@@ -6,7 +6,7 @@ This module teaches how to install Git on Linux, Windows, and macOS. On most Lin
 
 What does the following command do?
 
-![Git Config Diagram](../../assets/images/git-config.png)
+![Git Config Diagram](../../../assets/images/git-config.png)
 
 ### Answer
 
