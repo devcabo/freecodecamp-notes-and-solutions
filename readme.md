@@ -1,3 +1,5 @@
+![freeCodeCamp Notes and Solutions](assets/images/free-code-camp-notes-and-solutions-image.png)
+
 # FreeCodeCamp Documented Solutions
 
 This repository contains my personal solutions, explanations and technical notes for the FreeCodeCamp exercises I completed.
