@@ -86,7 +86,7 @@ This creates a local Git repository.
 Connect the local repository to the remote GitHub repository:
 
 ```bash
-git remote add origin https://github.com/devcabo/freecodecamp-notes-and-solutions.git
+git remote add origin https://github.com/your-username/your-repository.git
 ```
 
 You can verify the connection using:

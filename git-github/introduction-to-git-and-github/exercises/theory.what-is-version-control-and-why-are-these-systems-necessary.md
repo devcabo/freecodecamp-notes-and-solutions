@@ -61,10 +61,3 @@ Docker
 Git is a version control system. It tracks changes made to your source code files over time. It helps teams collaborate on the same codebase without overwriting each other's work and allows you to revert to older versions of your project.
 
 Docker is a containerization platform. It packages your application code along with all its dependencies, libraries, and configuration files into an isolated unit called a "container." This ensures the software runs identically on any computer, eliminating the "it works on my machine" problem.
-
-## Notes
-
-- Git works locally
-- GitHub is a hosting platform for Git repositories
-- Git helps maintain version history
-- Commits are organized snapshots of a project over time
